@@ -1,7 +1,7 @@
 #!/bin/bash
 #!/bin/bash
-#Instagram: @bhikan_deshmukh
-#Creadit: github.com/thelinuxchoice
+#Instagram: @master_one_insan
+#Creadit: github.com/thelinuxchoice/instainsane
 
 trap 'store; exit 1;' 2
 
